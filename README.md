@@ -1,4 +1,4 @@
-# sim_chain_cryptocurrency_lerning_project
+# sim_chain_cryptocurrency_learning_project
 This is my learning project to build a Blockchain in the object-oriented programming style.
 
 I called it as "sim-chain".
